@@ -85,7 +85,7 @@ Age 30, ₹1 lakh/month take-home, can save ₹30,000/month, ₹10 lakh saved, n
 | Goal | Today | Years | Future cost | From savings | SIP / month |
 |---|---|---|---|---|---|
 | Marriage | ₹10L | 2 | ₹12.2L | ₹10L | ₹2,892 |
-| Car | ₹8L | 5 | ₹10.7L (6%) | – | to compute |
+| Car | ₹8L | 5 | ₹10.7L (6%) | – | ₹14,153 |
 | Child education | ₹25L | 20 | ₹181L | – | ₹19,880 |
 | Retirement (₹60k/month expenses today) | – | 30 | ₹10.3 Cr (6%, ×25) | – | ₹33,555 · or ₹12,946 with a 10%/yr step-up |
 
